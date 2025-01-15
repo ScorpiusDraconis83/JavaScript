@@ -35,6 +35,8 @@
   * [ROT13](Ciphers/ROT13.js)
   * [VigenereCipher](Ciphers/VigenereCipher.js)
   * [XORCipher](Ciphers/XORCipher.js)
+* **Compression**
+  * [RLE](Compression/RLE.js)
 * **Conversions**
   * [ArbitraryBase](Conversions/ArbitraryBase.js)
   * [ArrayBufferToBase64](Conversions/ArrayBufferToBase64.js)
@@ -252,7 +254,6 @@
   * [RowEchelon](Maths/RowEchelon.js)
   * [ShorsAlgorithm](Maths/ShorsAlgorithm.js)
   * [SieveOfEratosthenes](Maths/SieveOfEratosthenes.js)
-  * [SieveOfEratosthenesIntArray](Maths/SieveOfEratosthenesIntArray.js)
   * [Signum](Maths/Signum.js)
   * [SimpsonIntegration](Maths/SimpsonIntegration.js)
   * [Softmax](Maths/Softmax.js)
@@ -260,7 +261,6 @@
   * [SquareRootLogarithmic](Maths/SquareRootLogarithmic.js)
   * [SumOfDigits](Maths/SumOfDigits.js)
   * [SumOfGeometricProgression](Maths/SumOfGeometricProgression.js)
-  * [TwinPrime](Maths/TwinPrime.js)
   * [TwoSum](Maths/TwoSum.js)
   * [Volume](Maths/Volume.js)
   * [WhileLoopFactorial](Maths/WhileLoopFactorial.js)
@@ -286,6 +286,7 @@
   * [Problem016](Project-Euler/Problem016.js)
   * [Problem017](Project-Euler/Problem017.js)
   * [Problem018](Project-Euler/Problem018.js)
+  * [Problem019](Project-Euler/Problem019.js)
   * [Problem020](Project-Euler/Problem020.js)
   * [Problem021](Project-Euler/Problem021.js)
   * [Problem023](Project-Euler/Problem023.js)
@@ -296,7 +297,6 @@
 * **Recursive**
   * [BinaryEquivalent](Recursive/BinaryEquivalent.js)
   * [BinarySearch](Recursive/BinarySearch.js)
-  * [EucledianGCD](Recursive/EucledianGCD.js)
   * [Factorial](Recursive/Factorial.js)
   * [FibonacciNumberRecursive](Recursive/FibonacciNumberRecursive.js)
   * [FloodFill](Recursive/FloodFill.js)
@@ -399,6 +399,7 @@
 * **Timing-Functions**
   * [GetMonthDays](Timing-Functions/GetMonthDays.js)
   * [IntervalTimer](Timing-Functions/IntervalTimer.js)
+  * [ParseDate](Timing-Functions/ParseDate.js)
 * **Trees**
   * [BreadthFirstTreeTraversal](Trees/BreadthFirstTreeTraversal.js)
   * [DepthFirstSearch](Trees/DepthFirstSearch.js)
